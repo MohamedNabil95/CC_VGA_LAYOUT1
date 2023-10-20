@@ -6,7 +6,8 @@
 
 ## Lower level schematic and diagram
 
-![Lower level Schematic](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/24382f93-9f20-4158-9fe6-3ce3db0df5ca)
+![Lower level Schematic](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/b2a7c521-f9b9-473a-8ad1-f1578e649649)
+
 
 ![Diagram Lower Level](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/f5142038-915b-4897-8ee9-d185f294b202)
 
