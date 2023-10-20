@@ -56,18 +56,19 @@ we divide it to top and bottom parts to make it easier to explain floor plan and
 ## Top Part Patterns
 
 ### Current Mirror PMOS LOAD
-![Diffrential Pair PMOS LOAD](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/e0d1346b-d641-4ec1-ac79-c714d130fdc0)
+
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/63f0b47e-5fea-4ba2-a13a-4d9b50945330)
 
  
 
-![Excel Pattern](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/0b99a2b3-0022-4cd1-9afe-17aab47e48e8)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/6bebe84e-2922-49e5-b06e-d0b3fa64dfb3)
 
 Note : D Stands for Dummy 
 
 ### PMOS second stage input devices 
-![Layout](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/fa46fc2c-9652-46c9-96d2-760d9575ee0f)
-![Transitors in schematic](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/f25a6c61-73e1-4618-a493-95bab58446d0)
-![Pattern](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/ff716802-032d-4be1-b52b-f2382b603380)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/2f1e6bc3-14d4-4709-8336-e9bf08a54298)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/55fcf1be-0bcf-44fe-8e79-7fbed12de8de)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/91e679a3-c3fc-4052-a4a7-8e41fa4bb89c)
 Note : Each unit in the excell pattern is 5 transistors 
 
 ### Resistor and capacitor Devices 
