@@ -43,7 +43,7 @@ we divide it to top and bottom parts to make it easier to explain floor plan and
 
 ## Bottom Part
 
-![Bottom View](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/4dcabc59-a204-406e-9288-c99af51439a3)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/ceb8795c-0e2a-4215-bae0-e9c2eff843cc)
 
 1.	Diffrential Input of CMFB Circuit and its load .
 2.	Capactior devices of sensing unit interdigitated on both sides.
