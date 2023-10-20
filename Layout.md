@@ -73,11 +73,11 @@ Note : Each unit in the excell pattern is 5 transistors
 
 ### Resistor and capacitor Devices 
 #### Resistors 
-![Resistor Layout](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/2fb3770a-b42e-4558-946f-56b049bf8164)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/fdaf70ab-8b7a-403d-a5f9-0e9fd07cff81)
 #### Capacitors
-![Capacitor Layout](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/dc224482-3edc-4a58-8cd1-5fc5e0da6904)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/c46f82c6-a2db-41fe-9273-2e2b374fc69d)
 #### Pattern
-![Resistor Excel Pattern](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/d80eca8d-f5e5-47e3-aab3-170a05e4811c)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/cddd187e-d8a2-4a27-8061-05ed2b0c430e)
 Note : THis pattern is same for both but for capacitor devices it has no guard rings .
 
 ## Bottom part Patterns 
