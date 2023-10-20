@@ -82,16 +82,17 @@ Note : THis pattern is same for both but for capacitor devices it has no guard r
 
 ## Bottom part Patterns 
 ### Differntial Pair First Stage
-![Layout Diff Pair](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/590feff4-0253-4cb0-8469-047307411e62)
-![Excell Pattern](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/1d687197-f623-4f37-8ac9-a0babe671b49)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/c3b53de3-818d-490f-9a4e-012a8a88227b)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/23dca6c2-1007-4265-8da4-8bf5f9c2249c)
+
 
 ### Current Mirror Devices
-![Layout](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/ff4a2a74-c1e9-41cb-ad32-8d429469b7ec)
-![Pattern in EXCEL](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/3c0567b5-05a4-4edd-9713-833ad6341d03)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/9a46bbc6-0731-4478-93ce-6589de67a96c)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/37464c21-9894-42f2-b5b4-805ffd6f0ef5)
 
 ### CMFB PMOS Load
-![Highlight Schematic](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/6406045e-d6d9-4f05-9e39-2f31d6eb0944)
-![High light Layout](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/fb91283c-846a-4ef7-9aaa-d00cad5301d5)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/75c42bc9-e478-4a09-a5cb-de7a336886b5)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/480fa8d4-d36c-4c2f-bd17-c66e152fcbab)
 
 ### CMFB NMOS input Devices
 ![Highlihgt Layout](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/dcf87f28-6d2b-48cf-b425-13f7640ef9b7)
