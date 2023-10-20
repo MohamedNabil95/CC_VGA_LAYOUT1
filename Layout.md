@@ -9,14 +9,14 @@
 ![Lower level Schematic](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/b2a7c521-f9b9-473a-8ad1-f1578e649649)
 
 
-![Diagram Lower Level](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/f5142038-915b-4897-8ee9-d185f294b202)
+![Diagram Lower Level](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/a563563b-00ae-4ff7-8852-d3032aa18633)
 
 
 ## Top Level schematic and diagram
 
-![TOP level Schematic](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/2da64689-2b87-47c7-bc01-108f744ac451)
+![TOP level Schematic](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/3ee6393a-ced0-4402-b2bf-b252bc2a40e8)
 
-![TOP LEVEL Diagram](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/0aabc6a5-aa2d-4bd6-acff-6a6160954370)
+![TOP LEVEL Diagram](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/04bb9004-a9fc-4539-be38-bbdc4e12ea8c)
 
 Note : in this design the capacitors and resistors used in normal design for VGA are implemented by transistors .
 
