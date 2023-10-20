@@ -22,17 +22,17 @@ Note : in this design the capacitors and resistors used in normal design for VGA
 
 # floorplan
 
-![Full Layout](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/53c155fb-907a-4a64-ad7f-441c0cab8527)
+![Full Layout](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/5a3539a0-c179-4e0d-9b2d-7c06de349ad4)
 
 This is the full layout of the circuit 
 
-![Floorplan Top and Bot](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/ba8e479b-c8a2-4970-b333-0117d52b5f18)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/0173c1f1-61a3-4f8b-ace3-bdbf8187ba83)
 
 we divide it to top and bottom parts to make it easier to explain floor plan and patterns .
 
 ## Top Part
 
-![Top View](https://github.com/MohamedNabil95/CC_VGA_Layout/assets/90795738/2bffc604-dde8-402d-9074-cad43b7abce5)
+![image](https://github.com/MohamedNabil95/CC_VGA_LAYOUT1/assets/90795738/4f81b6ae-af33-41ef-8347-8fcae3ae45d5)
 
  
 1. decaps on both sides to fill unused area
